@@ -34,7 +34,7 @@ After a wait of a few minutes while the file is 'Under Review' you will be allow
 
 My cost was about $90 USD including shipping, fees, and taxes -- about $18 USD per PCB.
 
-## Getting the rest of the Parts
+## Getting the the Remaining Parts
 
 I used [Mouser's 'Create a BOM'](https://www.mouser.com/en/Bom/) feature to order all the other parts.  Use the 'Mouser Part Number' and 'Qty' columns from the [vr65816_full_BOM.csv](https://github.com/vruumllc/vr65816_schematic/blob/main/vr65816_full_BOM.csv) file in this repository.
 
