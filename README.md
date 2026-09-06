@@ -44,5 +44,6 @@ The total price per board therefore came out to be about $132 USD (September 202
 
 ## More things you need that you may already own
 
+- USB micro-B cable with either [A](https://www.adafruit.com/product/592) or [C](https://www.adafruit.com/product/3878) connector (depending upon what your desktop or laptop computer has).
 - [USB-OTG Hub with micro-B connector](https://vilros.com/products/vilros-microusb-to-usb-4-port-otg-hub-black-great-for-pi-zero)
 - 
