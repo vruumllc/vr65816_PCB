@@ -1,9 +1,6 @@
 # vr65816
 WDC 65C816 Single Board Computer compatible with [Rumbledethump's Picocomputer Architecture](https://picocomputer.github.io/)
 
-<img src="images/vr65816_schematic_revA.png" width="800px"/>
-<img src="images/vr65816_PCB_revA.png" width="800px"/>
-
 ## Goals
 - Use 2 [RasberryPi Pico2s](https://www.raspberrypi.com/products/raspberry-pi-pico-2/) with [Rumbledethumps' rp6502 firmware](https://github.com/picocomputer/rp6502)
 - Run [WDC 65C816](https://www.westerndesigncenter.com/wdc/documentation/w65c816s.pdf) at up to 8Mhz, clocked by Pico2W RIA
@@ -14,3 +11,5 @@ WDC 65C816 Single Board Computer compatible with [Rumbledethump's Picocomputer A
 - Run all existing apps and games ("[ROMs](https://discord.com/channels/534571197908647946/1487969279251841216)") for the Rumbledethumps' RP6502 Picocomputer
 - Enable [creation](https://github.com/picocomputer/rp6502-sdk) of new "ROMs" utilizing [advanced features and memory of the '816](https://archive.org/details/0893037893ProgrammingThe65816/mode/2up) 
 
+<img src="images/vr65816_schematic_revA.png" width="800px"/>
+<img src="images/vr65816_PCB_revA.png" width="800px"/>
