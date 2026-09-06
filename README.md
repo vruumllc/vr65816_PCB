@@ -25,3 +25,9 @@ I used [PCBWay](https://www.pcbway.com/Member/Login/) to fabricate my PCB:
 - Drag the vr65816_gerbers.zip file into the web dialog, then click 'Submit the file now'
 
 After a wait of a few minutes while the file is 'Under Review' you be allowed to place your order
+
+My cost was about $90 USD including shipping, fees, and taxes -- about $18 USD per PCB
+
+## Getting the rest of the Parts
+
+I used [Mouser's 'Create a BOM'](https://www.mouser.com/en/help/tools/how-to-create-a-new-bom) feature to order all the other parts.  Use the 'Mouser Part Number' and 'Qty' columns from the vr65816_full_BOM.csv file in this repository
