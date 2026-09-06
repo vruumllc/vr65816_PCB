@@ -13,3 +13,15 @@ WDC 65C816 Single Board Computer compatible with [Rumbledethump's Picocomputer A
 
 <img src="images/vr65816_schematic_revA.png" width="800px"/>
 <img src="images/vr65816_PCB_revA.png" width="800px"/>
+
+## Getting a PCB
+I used [PCBWay](https://www.pcbway.com/Member/Login/) to fabricate my PCB:
+- Click on "PCB Prototype" at upper left after logging in
+- Enter Length=125 and Width=150 mm for the Size
+- Select Quantity desired (5 minimum)
+- Select Solder Mask and Silkscreen Colors, Surface Finish, and 'Remove Product No.' as desired
+- Press the Calculate button at the bottom to generate a price quote
+- If the price is right, press 'Save to Cart', then 'Agree' buttons
+- Drag the vr65816_gerbers.zip file into the web dialog, then click 'Submit the file now'
+
+After a wait of a few minutes while the file is 'Under Review' you be allowed to place your order
