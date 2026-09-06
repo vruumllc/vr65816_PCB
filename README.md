@@ -7,7 +7,7 @@ WDC 65C816 Single Board Computer compatible with [Rumbledethump's Picocomputer A
 - Use currently produced through-hole ICs only, and no programmable logic
 - Use 1MB SRAM, 64kB extended RAM, and no hardware ROM
 - Use WDC 65C22 for timers and peripheral I/O
-- Use [KiCad]("https://www.kicad.org/download") to create fully open source schematic and board source files
+- Use [KiCad](https://www.kicad.org/download) to create fully open source schematic and board source files
 - Run all existing apps and games ("ROMs") for the Rumbledethumps' RP6502 Picocomputer
 - Enable [creation](https://github.com/picocomputer/rp6502-sdk) of new "ROMs" utilizing advanced features and memory of the '816 
 
