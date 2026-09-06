@@ -1,7 +1,8 @@
 # vr65816
 WDC 65C816 Single Board Computer compatible with [Rumbledethump's Picocomputer Architecture](https://picocomputer.github.io/)
 
-This project is based on [Rumbledethump's Picocomputer 6502 design](https://github.com/picocomputer/schematic), so he gets credit for 99.5% of the work. 
+This project is based on [Rumbledethump's Picocomputer 6502 design](https://github.com/picocomputer/schematic), so he gets credit for 99.5% of the work.
+
 Any flaws are my fault, 'cause his board works GREAT!
 
 ## Goals
