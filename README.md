@@ -51,7 +51,9 @@ The total price per board therefore came out to be about $132 USD (September 202
 - USB2 flash drive formatted for FAT32 (or 'msdos' in Linux).
 - Keyboard and mouse (USB-2 cable or [wireless](https://www.logitech.com/en-us/shop/p/mk470-slim-wireless-keyboard-mouse), or Bluetooth)
 - VGA Monitor and cable
-  or
+  
+  OR
+  
 - HDMI Monitor, cable, and [VGA to HDMI adapter](https://ventiontech.com/products/vga-to-hdmi-adapter-1080p-vga-male-to-hdmi-female-converter-cable-with-audio-usb-power-for-ps4-3-hdtv-vga-hdmi-converter) (NOT HDMI to VGA adapter!!!)
 - 
   
