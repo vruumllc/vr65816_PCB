@@ -41,3 +41,8 @@ I used [Mouser's 'Create a BOM'](https://www.mouser.com/en/Bom/) feature to orde
 My cost per kit of parts was about $114 USD, including shipping, fees, and taxes.
 
 The total price per board therefore came out to be about $132 USD (September 2026, Silicon Valley, USA).
+
+## More things you need that you may already own
+
+- [USB-OTG Hub with micro-B connector](https://vilros.com/products/vilros-microusb-to-usb-4-port-otg-hub-black-great-for-pi-zero)
+- 
