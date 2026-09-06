@@ -1,5 +1,5 @@
 # vr65816
-WDC 65C816 Single Board Computer compatible with Rumbledethump's Picocomputer Architecture
+WDC 65C816 Single Board Computer compatible with Rumbledethump's Picocomputer Architecture(https://picocomputer.github.io/)
 
 ## Goals
 - Use 2 RasberryPi Pico2s with Rumbledethumps' rp6502 firmware
