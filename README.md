@@ -31,3 +31,7 @@ My cost was about $90 USD including shipping, fees, and taxes -- about $18 USD p
 ## Getting the rest of the Parts
 
 I used [Mouser's 'Create a BOM'](https://www.mouser.com/en/help/tools/how-to-create-a-new-bom) feature to order all the other parts.  Use the 'Mouser Part Number' and 'Qty' columns from the vr65816_full_BOM.csv file in this repository
+
+My cost per kit of parts was about $114 USD, including shipping, fees, and taxes.
+
+The total price therefore came out to be about $132 on 9/6/20126, in Silicon Valley, USA.
