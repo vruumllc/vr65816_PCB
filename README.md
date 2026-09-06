@@ -28,7 +28,7 @@ I used [PCBWay](https://www.pcbway.com/Member/Login/) to fabricate my PCB:
 - If the price is right, press 'Save to Cart', then 'Agree' buttons
 - Drag the vr65816_gerbers.zip file into the web dialog, then click 'Submit the file now'
 
-After a wait of a few minutes while the file is 'Under Review' you be allowed to place your order.
+After a wait of a few minutes while the file is 'Under Review' you will be allowed to place your order.
 
 My cost was about $90 USD including shipping, fees, and taxes -- about $18 USD per PCB.
 
