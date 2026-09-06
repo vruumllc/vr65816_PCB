@@ -38,4 +38,4 @@ I used [Mouser's 'Create a BOM'](https://www.mouser.com/en/help/tools/how-to-cre
 
 My cost per kit of parts was about $114 USD, including shipping, fees, and taxes.
 
-The total price therefore came out to be about $132 USD (September 2026, Silicon Valley, USA).
+The total price per board therefore came out to be about $132 USD (September 2026, Silicon Valley, USA).
