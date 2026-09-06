@@ -24,7 +24,7 @@ I used [PCBWay](https://www.pcbway.com/Member/Login/) to fabricate my PCB:
 - Enter Length=125 and Width=150 mm for the Size
 - Select Quantity desired (5 minimum)
 - Select Solder Mask and Silkscreen Colors, Surface Finish, and 'Remove Product No.' as desired
-- Press the Calculate button at the bottom to generate a price quote
+- Press the 'Calculate' button at the bottom to generate a price quote
 - If the price is right, press 'Save to Cart', then 'Agree' buttons
 - Drag the vr65816_gerbers.zip file into the web dialog, then click 'Submit the file now'
 
