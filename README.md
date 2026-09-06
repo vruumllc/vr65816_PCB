@@ -1,9 +1,11 @@
 # vr65816
 WDC 65C816 Single Board Computer compatible with [Rumbledethump's Picocomputer Architecture](https://picocomputer.github.io/)
 
-This project is based on [Rumbledethump's Picocomputer 6502 design](https://github.com/picocomputer/schematic), so he gets credit for most of the work. 
+This project is based on [Rumbledethump's Picocomputer 6502 design](https://github.com/picocomputer/schematic), so he gets top billing. 
 
-Any flaws are my fault, 'cause his board works GREAT! Report any problems to me, and please don't bother him.
+That said, any flaws are my fault, 'cause his board works GREAT! 
+
+Report any problems to me, and please don't bother him.
 
 ## Goals
 - Use 2 [RasberryPi Pico2s](https://www.raspberrypi.com/products/raspberry-pi-pico-2/) with [Rumbledethumps' rp6502 firmware](https://github.com/picocomputer/rp6502)
