@@ -87,8 +87,13 @@ OK! You should now have a completed vr65816 retro-computer of your very own. Let
 - Plug in the video monitor if you have it, using the VGA to HDMI adapter if you have an HDMI monitor
 - Finally, plug the USB cable connected to the Pico 2 VGA back into you host computer.
 
-If you have a video monitor connected, you should see "Picocomputer 6502" and the RIA and VGA versions you uploaded, followed by the prompt ']' and a blinking cursor.
+If you have a video monitor connected, you should see "Picocomputer 6502" and the RIA and VGA firmware versions you uploaded, followed by the prompt ']' and a blinking cursor.
 
 If you don't have monitor, keyboard, mouse, gamepad, or speakers yet, don't worry.  You can still continue testing as long as you have the USB cable connected from the Pico 2 VGA to your host computer.  Besides powering the vr65816, this cable supplies a serial communication channel operating at 115200 baud, 8 data bits, 1 stop bit, no parity, and no flow control. You can use a serial terminal program on your host computer to interact with the vr65816. The details vary depending upon your host computer type. I use Linux and like GTKTerm. PuttySSH also works well and exists for both Linux and Windows. Sorry, I've never owned a Mac, so you are on your own.
 
+If you've arrived at the ']', you've verified that the Pico half of the vr65816 is working.  You are looking at the prompt for the 'monitor' program (not to be confused with a computer display!), which runs on the Pico 2W RIA. Try typing "help" to see all that it can do for you. 
+
+You still haven't tested the 65816 half of the board, however! To do that, simply type "0" and return.  You should see the contents of the first 16 bytes of the 65816 memory, thus verifying that the RIA can talk to the 65816 microprocessor and access its memory.
+
+Congratulations! Time to start having fun by loading some ROMs.
 
