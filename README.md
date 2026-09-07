@@ -61,3 +61,17 @@ Rumbledethumps has made a huge effort to support modern hardware, so you don't h
 On a scale from 1 to 10 for electronics kit build difficulty, the vr65816 ranks about a 3. While it is probably not the best project to learn soldering on, it is an easy kit to build -- well within the capabilities of a supervised middle-school student. The component identifications are all on the back of the PCB, and listed in the [BOM](https://github.com/vruumllc/vr65816_schematic/blob/main/vr65816_full_BOM.csv).
 
 The hardest part is making sure you have the right resisters in the right places (consult a [resister color key](https://en.wikipedia.org/wiki/Electronic_color_code), or use an Ohm meter to make sure). Other than that, just make sure your sockets (and the chips inserted in them) are the correct direction as indicated by the notch on the PCB, and that the 2 LEDs are soldered with the shorter leg (with the flat) in the hole with the square solder pad (cathode in pin1). I guess the middle row of the VGA connector might be a little tricky if you don't have a fine tipped soldering iron...but...you can do this! 
+
+## Uploading the Picocomputer firmware
+Get the latest released firmware from [here](https://github.com/picocomputer/rp6502/releases). You want the file named rp6502-#.##-pico.zip, where #.## is the latest version number. 
+- Unzip the files to a temporary folder on you host computer
+- Plug the micro-B USB cable into the Pico 2W (the one with the rectangular metal shield around the wireless chip)
+- Press the BootSel button on the Pico 2W, then plug the other end of the cable into your host computer
+- Release the BootSel button, and you should see a new drive appear on your host computer
+- Copy (or drag) the rp6502-#.##-ria.uf2 file into the new drive
+- The file should upload to the Pico 2W, and turn it into the "RIA", lighting the LED.
+- Repeat the process for the Pico 2, this time copying the rp6502-#.##-vga.uf2, creating the "VGA card" for the vr65816.
+- Unplug the USB cable from your host computer
+- Plug the USB OTG hub into the micro-B port of the Pico 2W "RIA"
+- Plug your USB  
+
