@@ -105,6 +105,7 @@ Rumbledethump's Picocomputer Architecture for the WDC 65C02 was developed over s
 Here are some things to keep in mind before building my vr65816:
 
 1. Rumbledethump has stated that he has no interest in supporting the 65816. That means this project is a kind of a bastard son, or as I like to think of it, love child (;^/), of his efforts. Please don't ask him to add any new features in support of this project.
-2. d;fsjadlk 
+2. Similarly, tread carefully at the [Picocomputer 6502 Discord site\](https://discord.com/channels/534571197908647946/1545859287706902559). Rumbledethumps has created an '#other-hardware' channel for projects like mine. Please use it. I'll keep on eye on it.
+3. 
 
 
