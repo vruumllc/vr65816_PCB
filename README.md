@@ -68,10 +68,14 @@ Get the latest released firmware from [here](https://github.com/picocomputer/rp6
 - Plug the micro-B USB cable into the Pico 2W (the one with the rectangular metal shield around the wireless chip)
 - Press the BootSel button on the Pico 2W, then plug the other end of the cable into your host computer
 - Release the BootSel button, and you should see a new drive appear on your host computer
-- Copy (or drag) the rp6502-#.##-ria.uf2 file into the new drive
-- The file should upload to the Pico 2W, and turn it into the "RIA", lighting the LED.
+- Copy (or drag) the rp6502-#.##-ria-w.uf2 file into the new drive
+- The file should upload to the Pico 2W and turn it into the "RIA", lighting the LED.
 - Repeat the process for the Pico 2, this time copying the rp6502-#.##-vga.uf2, creating the "VGA card" for the vr65816.
-- Unplug the USB cable from your host computer
-- Plug the USB OTG hub into the micro-B port of the Pico 2W "RIA"
-- Plug your USB  
+- Unplug the USB cable from your host computer, leaving it connected to the Pico 2 VGA micro-B port
+
+## Testing your vr65816
+OK! You should now have a completed vr65816 retro-computer of your very own. Let's test it.
+- Plug the USB 2 OTG hub into the micro-B port of the Pico 2W RIA
+- On you host computer, copy the test "ROM" files (ending in .rp6502) from this repository into the USB flash drive
+- Remove the USB flash drive from your host computer and plug it into the USB 2 OTG hub connected to the RIA
 
