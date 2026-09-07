@@ -34,8 +34,7 @@ After a wait of a few minutes while the file is 'Under Review' you will be allow
 
 My cost was about $90 USD including shipping, fees, and taxes -- about $18 USD per PCB.
 
-## Getting the the Remaining Parts
-
+## Getting the the remaining parts
 I used [Mouser's 'Create a BOM'](https://www.mouser.com/en/Bom/) feature to order all the other parts.  Use the 'Mouser Part Number' and 'Qty' columns from the [vr65816_full_BOM.csv](https://github.com/vruumllc/vr65816_schematic/blob/main/vr65816_full_BOM.csv) file in this repository.
 
 My cost per kit of parts was about $114 USD, including shipping, fees, and taxes.
@@ -56,4 +55,6 @@ Rumbledethumps has made a huge effort to support modern hardware, so you don't h
   OR
   
 - HDMI Monitor, cable, and [VGA to HDMI adapter](https://ventiontech.com/products/vga-to-hdmi-adapter-1080p-vga-male-to-hdmi-female-converter-cable-with-audio-usb-power-for-ps4-3-hdtv-vga-hdmi-converter) (NOT HDMI to VGA adapter!!!)
-  
+
+## Building the vr65816 
+On a scale from 1 to 10 for electronics kit build difficulty, the vr65816 ranks about a 2. While it probably not the best project to learn soldering on, it is a easy kit to build -- well within the capabilities of a supervised middle-school student. The component identifications are all on the back of the PCB. The hardest part is making sure you have the right resisters in the right places (consult a [resister color key](https://en.wikipedia.org/wiki/Electronic_color_code), or use a Ohm meter to make sure). Other than that, just make sure your sockets (and the chips inserted in them) are the correct direction, and that the 2 LEDS are soldered with the shorter leg (with the flat) in the hole with the square solder pad (cathode in pin1).
