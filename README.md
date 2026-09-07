@@ -86,6 +86,6 @@ OK! You should now have a completed vr65816 retro-computer of your very own. Let
 
 If you have a video monitor connected, you should see "Picocomputer 6502" and the RIA and VGA versions you uploaded, followed by the prompt ']' and a blinking cursor.
 
-If don't have monitor, keyboard, mouse, gamepad, or speakers yet, don't worry.  You can still continue testing as long as you have the USB cable connected from the Pico 2 VGA to your host computer.  Besides powering the vr65816, this cable supplies a serial communication channel operating at 115200 baud, 8 data bits, 1 stop bit, no parity, and no flow control. You can use a serial terminal program on your host computer to interact with the vr65816. The details vary depending upon your host computer type. I use Linux and like GTKTerm. PuttySSH also works well and exists for both Linux and Windows. Sorry, I've never owned a Mac, so you are on your own.
+If you don't have monitor, keyboard, mouse, gamepad, or speakers yet, don't worry.  You can still continue testing as long as you have the USB cable connected from the Pico 2 VGA to your host computer.  Besides powering the vr65816, this cable supplies a serial communication channel operating at 115200 baud, 8 data bits, 1 stop bit, no parity, and no flow control. You can use a serial terminal program on your host computer to interact with the vr65816. The details vary depending upon your host computer type. I use Linux and like GTKTerm. PuttySSH also works well and exists for both Linux and Windows. Sorry, I've never owned a Mac, so you are on your own.
 
 
