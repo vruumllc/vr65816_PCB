@@ -13,7 +13,7 @@ Report any problems to me using the ['Issues'](https://github.com/vruumllc/vr658
 - Use currently produced through-hole ICs only, and no programmable logic
 - Use 1MB SRAM, 64kB extended RAM (on Pico2W RIA), and no hardware ROM
 - Use [WDC 65C22](https://www.westerndesigncenter.com/wdc/documentation/w65c22s.pdf) for timers and peripheral I/O
-- Design, [breadboard](), and test it. 
+- Design, [breadboard](https://github.com/vruumllc/vr65816_schematic/blob/main/images/vr65816_breadboard.jpg), and test it. 
 - Run all existing apps and games ("[ROMs](https://discord.com/channels/534571197908647946/1487969279251841216)") for the Rumbledethumps' RP6502 Picocomputer
 - Enable [creation](https://github.com/picocomputer/rp6502-sdk) of new "ROMs" utilizing [advanced features and memory of the '816](https://archive.org/details/0893037893ProgrammingThe65816/mode/2up)
 - Use [KiCad](https://www.kicad.org/download) to create fully open source schematic and board design files
