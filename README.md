@@ -8,7 +8,7 @@ That said, any flaws are my fault, 'cause his board works GREAT!
 Report any problems to me using the ['Issues'](https://github.com/vruumllc/vr65816_schematic/issues) menu item above, and please don't bother him.
 
 ## Goals
-- Use 2 [RasberryPi Pico2s](https://www.raspberrypi.com/products/raspberry-pi-pico-2/) with [Rumbledethumps' rp6502 firmware](https://github.com/picocomputer/rp6502)
+- Use 2 [Rasberry Pi Pico2s](https://www.raspberrypi.com/products/raspberry-pi-pico-2/) with [Rumbledethumps' rp6502 firmware](https://github.com/picocomputer/rp6502)
 - Run [WDC 65C816](https://www.westerndesigncenter.com/wdc/documentation/w65c816s.pdf) at up to 8Mhz, clocked by Pico2W RIA
 - Use currently produced through-hole ICs only, and no programmable logic
 - Use 1MB SRAM, 64kB extended RAM (on Pico2W RIA), and no hardware ROM
