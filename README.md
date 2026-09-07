@@ -21,6 +21,11 @@ Report any problems to me using the ['Issues'](https://github.com/vruumllc/vr658
 <img src="images/vr65816_schematic_revA.png" width="800px"/>
 <img src="images/vr65816_PCB_revA.png" width="800px"/>
 
+## Getting the parts
+I used [Mouser's 'Create a BOM'](https://www.mouser.com/en/Bom/) feature to order all parts except the PCB.  Use the 'Mouser Part Number' and 'Qty' columns from the [vr65816_full_BOM.csv](https://github.com/vruumllc/vr65816_schematic/blob/main/vr65816_full_BOM.csv) file in this repository.
+
+My cost per kit of parts was about $114 USD, including shipping, fees, and taxes.
+
 ## Getting a PCB
 I used [PCBWay](https://www.pcbway.com/Member/Login/) to fabricate my PCB:
 - Click on "PCB Prototype" at upper left after logging in
@@ -35,12 +40,7 @@ After a wait of a few minutes while the file is 'Under Review' you will be allow
 
 My cost was about $90 USD including shipping, fees, and taxes -- about $18 USD per PCB.
 
-## Getting the the remaining parts
-I used [Mouser's 'Create a BOM'](https://www.mouser.com/en/Bom/) feature to order all the other parts.  Use the 'Mouser Part Number' and 'Qty' columns from the [vr65816_full_BOM.csv](https://github.com/vruumllc/vr65816_schematic/blob/main/vr65816_full_BOM.csv) file in this repository.
-
-My cost per kit of parts was about $114 USD, including shipping, fees, and taxes.
-
-The total price per board therefore came out to be about $132 USD (September 2026, Silicon Valley, USA).
+The total price per vr65816 therefore came out to be about $132 USD (September 2026, Silicon Valley, USA).
 
 ## More things you need that you may already own
 Rumbledethumps has made a huge effort to support modern hardware, so you don't have to rely on ancient and expensive peripherals to use this retro-computer. Here is a list of peripherals you may already have, with some example links if you don't:
