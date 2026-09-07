@@ -5,7 +5,7 @@ This project is based on [Rumbledethump's Picocomputer 6502 design](https://gith
 
 That said, any flaws are my fault, 'cause his board works GREAT! 
 
-Report any problems to me, and please don't bother him.
+Report any problems to me using the ['Issues'](https://github.com/vruumllc/vr65816_schematic/issues) menu item above, and please don't bother him.
 
 ## Goals
 - Use 2 [RasberryPi Pico2s](https://www.raspberrypi.com/products/raspberry-pi-pico-2/) with [Rumbledethumps' rp6502 firmware](https://github.com/picocomputer/rp6502)
