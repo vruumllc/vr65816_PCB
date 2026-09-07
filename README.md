@@ -46,9 +46,10 @@ The total price per board therefore came out to be about $132 USD (September 202
 Rumbledethumps has made a huge effort to support modern hardware, so you don't have to rely on ancient and expensive peripherals to use this retro-computer. Here is a list of peripherals you may already have, with some example links if you don't:
 
 (All links are just clarifying examples and not an endorsement or guarantee of compatibility)
-- USB micro-B cable with either [A](https://www.adafruit.com/product/592) or [C](https://www.adafruit.com/product/3878) connector (depending upon what your desktop or laptop computer has).
+
+- USB micro-B cable with either [A](https://www.adafruit.com/product/592) or [C](https://www.adafruit.com/product/3878) connector (depending upon what your desktop or laptop computer has)
 - [USB-OTG Hub with micro-B connector](https://vilros.com/products/vilros-microusb-to-usb-4-port-otg-hub-black-great-for-pi-zero)
-- USB2 flash drive formatted for FAT32 (or 'msdos' in Linux).
+- USB2 flash drive formatted for FAT32 (or 'msdos' in Linux)
 - Keyboard, Mouse and [Gamepad](https://www.logitechg.com/en-us/shop/p/f310-gamepad) (USB-2 cable or [wireless](https://www.logitech.com/en-us/shop/p/mk470-slim-wireless-keyboard-mouse), or Bluetooth LE)
 - VGA Monitor and cable
   
