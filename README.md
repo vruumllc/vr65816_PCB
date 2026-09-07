@@ -51,6 +51,7 @@ Rumbledethumps has made a huge effort to support modern hardware, so you don't h
 - [USB-OTG Hub with micro-B connector](https://vilros.com/products/vilros-microusb-to-usb-4-port-otg-hub-black-great-for-pi-zero)
 - USB2 flash drive formatted for FAT32 (or 'msdos' in Linux)
 - Keyboard, Mouse and [Gamepad](https://www.logitechg.com/en-us/shop/p/f310-gamepad) (USB-2 cable or [wireless](https://www.logitech.com/en-us/shop/p/mk470-slim-wireless-keyboard-mouse), or Bluetooth LE)
+- Stereo headphones or computer speakers
 - VGA Monitor and cable
 
   OR
@@ -78,4 +79,13 @@ OK! You should now have a completed vr65816 retro-computer of your very own. Let
 - Plug the USB 2 OTG hub into the micro-B port of the Pico 2W RIA
 - On your host computer, copy the [test "ROM" files](https://github.com/vruumllc/vr65816_schematic/tree/main/test_ROMS) (ending in .rp6502) from this repository into the USB flash drive
 - Remove the USB flash drive from your host computer and plug it into the USB 2 OTG hub connected to the RIA
+- Plug in any other USB 2 peripherals like keyboard, mouse, and gamepad, if you have them
+- Plug in the headphones or computer speakers, if you have them
+- Plug in the video monitor if you have it, using the VGA to HDMI adapter if you have an HDMI monitor
+- Finally, plug the USB cable connected to the Pico 2 VGA back into you host computer.
+
+If you have a video monitor connected, you should see "Picocomputer 6502" and the RIA and VGA versions you uploaded, followed by the prompt ']' and a blinking cursor.
+
+If don't have monitor, keyboard, mouse, gamepad, or speakers yet, don't worry.  You can still continue testing as long as you have the USB cable connected from the Pico 2 VGA to your host computer.  Besides powering the vr65816, this cable supplies a serial communication channel operating at 115200 baud, 8 data bits, 1 stop bit, no parity, and no flow control. You can use a serial terminal program on your host computer to interact with the vr65816. The details vary depending upon your host computer type. I use Linux and like GTKTerm. PuttySSH also works well and exists for both Linux and Windows. Sorry, I've never owned a Mac, so you are on your own.
+
 
