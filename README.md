@@ -7,7 +7,10 @@ That said, any flaws are my fault, 'cause his board works GREAT!
 
 Report any problems to me using the ['Issues'](https://github.com/vruumllc/vr65816_schematic/issues) menu item above, and please don't bother him.
 
-## Goals
+## Is the vr65816 for you?
+Should you be building the vr65816 at all? This board is targeted at programmers interested in exploring and exploiting the 65816 microprocessor. I built it because I wanted to create projects requiring more memory than the 64kB limit of the 8-bit 6502 processor. If you aren't a programmer and just want a really cool retro-computer to build and play games on, I'd strongly suggest starting with the Rumbledethump's Picocomputer 6502. Order a PCB and support his fantastic project [here](https://ko-fi.com/rumbledethumps). 
+
+## My goals for this project
 - Use 2 [Rasberry Pi Pico2s](https://www.raspberrypi.com/products/raspberry-pi-pico-2/) with [Rumbledethumps' rp6502 firmware](https://github.com/picocomputer/rp6502)
 - Run [WDC 65C816](https://www.westerndesigncenter.com/wdc/documentation/w65c816s.pdf) at up to 8Mhz, clocked by Pico2W RIA
 - Use currently produced through-hole ICs only, and no programmable logic
