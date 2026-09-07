@@ -10,7 +10,7 @@ Report any problems to me using the ['Issues'](https://github.com/vruumllc/vr658
 ## Is the vr65816 for you?
 Should you be building the vr65816 at all? This board is targeted at experienced programmers interested in exploring and exploiting the 65816 microprocessor. I built it because I wanted to create projects requiring more memory than the 64kB limit of the 8-bit 6502 processor. 
 
-If you aren't an experienced programmer and just want a simple but capable retro-computer to build, create and play games on, or to re-live the exciting early days of the personal computer, then I'd strongly suggest starting with the Rumbledethump's Picocomputer 6502. Order a PCB and support his fantastic project [here](https://ko-fi.com/rumbledethumps). 
+If you aren't an experienced programmer and just want a simple but capable retro-computer to build, create and play games on, or to re-live the exciting early days of the personal computer, then I'd strongly suggest starting with the Rumbledethump's Picocomputer 6502 (RP6502 for short). Order a PCB and support his fantastic project [here](https://ko-fi.com/rumbledethumps). 
 
 ## My goals for this project
 - Use 2 [Rasberry Pi Pico2s](https://www.raspberrypi.com/products/raspberry-pi-pico-2/) with [Rumbledethumps' rp6502 firmware](https://github.com/picocomputer/rp6502)
@@ -107,7 +107,7 @@ All of this is a wonderful base for my project, but I went into it knowing that 
 Here are some things to keep in mind before building my vr65816:
 
 1. Rumbledethump has stated that he has no interest in supporting the 65816. That means this project is a kind of a bastard son, or as I like to think of it, love child (;^/), of his efforts. Please don't ask him to add any new features in support of this project.
-2. Similarly, tread carefully at the [Picocomputer 6502 Discord site\](https://discord.com/channels/534571197908647946/1545859287706902559). Rumbledethumps has created an '#other-hardware' channel for projects like mine. Please use it. I'll keep on eye on it.
-3. Very importantly, neither C compiler supporting the Picocomputer 6502 (RP6502 for short) compiles for the 65816! The ca65 assembler piece of the [cc65 project](https://cc65.github.io/) DOES understand 65816 assembly, though (I'm not sure about [llvm-mos's assembler](https://llvm-mos.org/wiki/Welcome)). This means that to exploit the advanced features and memory of the vr65816, you will need to code in assembly language. See my examples in the vr65816_examples repository.
+2. Similarly, tread carefully at the [Picocomputer 6502 Discord site](https://discord.com/channels/534571197908647946/1545859287706902559). Rumbledethumps has created an '#other-hardware' channel for projects like mine. Please use it. I'll keep on eye on it.
+3. Very importantly, neither C compiler supporting the RP6502 compiles for the 65816! The ca65 assembler piece of the [cc65 project](https://cc65.github.io/) DOES understand 65816 assembly, though (I'm not sure about [llvm-mos's assembler](https://llvm-mos.org/wiki/Welcome)). This means that to exploit the advanced features and memory of the vr65816, you will need to code in assembly language. See my examples in the vr65816_examples repository.
 
 
