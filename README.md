@@ -43,7 +43,8 @@ My cost per kit of parts was about $114 USD, including shipping, fees, and taxes
 The total price per board therefore came out to be about $132 USD (September 2026, Silicon Valley, USA).
 
 ## More things you need that you may already own
-Rumbledethumps has made a huge effort to support modern hardware, so you don't have to rely on ancient and expensive peripherals.   
+Rumbledethumps has made a huge effort to support modern hardware, so you don't have to rely on ancient and expensive peripherals to use this retro-computer. Here is a list of peripherals you may already have, with some example links if you don't:
+
 (All links are just clarifying examples and not an endorsement or guarantee of compatibility)
 
 - USB micro-B cable with either [A](https://www.adafruit.com/product/592) or [C](https://www.adafruit.com/product/3878) connector (depending upon what your desktop or laptop computer has).
