@@ -70,7 +70,7 @@ The hardest part is making sure you have the right resisters in the right places
 
 ## Uploading the Picocomputer firmware
 Get the latest released firmware from [here](https://github.com/picocomputer/rp6502/releases). You want the file named rp6502-#.##-pico.zip, where #.## is the latest version number. 
-- Unzip the files to a temporary folder on you host computer
+- Unzip the files to a temporary folder on your host computer
 - Plug the micro-B USB cable into the Pico 2W (the one with the rectangular metal shield around the wireless chip)
 - Press the BootSel button on the Pico 2W, then plug the other end of the cable into your host computer
 - Release the BootSel button, and you should see a new drive appear on your host computer
