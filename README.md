@@ -100,7 +100,7 @@ You still haven't tested the 65816 half of the board, however! To do that, simpl
 Congratulations! Time to start having fun by loading some ROMs.
 
 ## Caveats
-Rumbledethump's Picocomputer Architecture for the WDC 65C02 was developed over several YEARS and encompasses not just the hardware and its firmware, but platform support on two compilers, and a programming infrastructure developed for Microsoft's Visual Studio Code IDE.  All of this is a wonderful base for my project, but I went into it knowing that since it was developed for the 6502, that there would some limitations re-using it. I also knew I had NO intentions of forking any of his architecture, and instead learn to work within the limitations. You should too. 
+Rumbledethump's Picocomputer Architecture for the WDC 65C02 was developed over several YEARS and encompasses not just the hardware and its firmware, but platform support on two C compilers, and a programming infrastructure developed for Microsoft's Visual Studio Code IDE.  All of this is a wonderful base for my project, but I went into it knowing that since it was developed for the 6502, that there would some limitations re-using it. I also knew I had NO intentions of forking any of his architecture, and instead learn to work within the limitations. You should too. 
 
 Here are some things to keep in mind before building my vr65816:
 
