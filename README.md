@@ -76,7 +76,7 @@ Get the latest released firmware from [here](https://github.com/picocomputer/rp6
 - Release the BootSel button, and you should see a new drive appear on your host computer
 - Copy (or drag) the rp6502-#.##-ria-w.uf2 file into the new drive
 - The file should upload to the Pico 2W and turn it into the "RIA", lighting the LED.
-- Repeat the process for the Pico 2, this time copying the rp6502-#.##-vga.uf2, creating the "VGA card" for the vr65816.
+- Repeat the process for the Pico 2, this time copying the rp6502-#.##-vga.uf2, creating the 'VGA card' for the vr65816.
 - Unplug the USB cable from your host computer, leaving it connected to the Pico 2 VGA micro-B port
 
 ## Testing your vr65816
