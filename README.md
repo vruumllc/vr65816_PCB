@@ -117,7 +117,7 @@ Here are some things to keep in mind before building my vr65816:
 9. The vr65816 PCB is 25mm taller than the RP6502 PCB, so it won't fit in the fabulous 3D-printed cases I've already designed. If I ever finish working on this README and the vr65816_examples, I'll hop right to it and come up with something special.
 10. I'm sure more things will come to light...
 
-Don't get too discouraged by all this. At the very least you'll wind up with a retro-computer 100% compatible with the RP6502.
+Don't get too discouraged by all this. At the very least you'll wind up with a retro-computer 100% compatible with the RP6502, which (have I already mentioned this?) is really GREAT!
 
 
 
