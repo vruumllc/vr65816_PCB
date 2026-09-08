@@ -82,7 +82,7 @@ Get the latest released firmware from [here](https://github.com/picocomputer/rp6
 ## Testing your vr65816
 OK! You should now have a completed vr65816 retro-computer of your very own. Let's test it.
 - Plug the USB 2 OTG hub into the micro-B port of the Pico 2W RIA
-- On your host computer, copy the [test "ROM" files](https://github.com/vruumllc/vr65816_schematic/tree/main/test_ROMS) (ending in .rp6502) from this repository into the USB flash drive
+- On your host computer, copy the [test "ROM" files](https://github.com/vruumllc/vr65816_schematic/tree/main/test_ROMS) (ending in .rp6502 or .vr65816) from this repository into the USB flash drive
 - Remove the USB flash drive from your host computer and plug it into the USB 2 OTG hub
 - Plug in any other USB 2 peripherals like keyboard, mouse, and gamepad, if you have them
 - Plug in the headphones or computer speakers, if you have them
