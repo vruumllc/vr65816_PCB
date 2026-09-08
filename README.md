@@ -10,7 +10,7 @@ Report any problems to me using the ['Issues'](https://github.com/vruumllc/vr658
 ## Is the vr65816 for you?
 Should you be building the vr65816 at all? This board is targeted at experienced programmers interested in exploring and exploiting the 65816 microprocessor. You might want to read the Caveat section at the end of this document before continuing. I built it because I wanted to create projects requiring more memory than the 64kB limit of the 8-bit 6502 processor, and I'm willing to experiment, and fail. 
 
-If you aren't an experienced programmer or just want a simple but capable retro-computer to build, create and play games on, or to re-live the exciting early days of the personal computer, then I'd strongly suggest starting with the Rumbledethump's Picocomputer 6502 (RP6502 for short). Order a PCB and support his fantastic project [here](https://ko-fi.com/rumbledethumps). 
+If you aren't an experienced programmer or just want a simple but capable retro-computer to build, create and play games on, or to re-live the exciting early days of the personal computer, then I'd strongly suggest starting with the Rumbledethump's Picocomputer 6502 (RP6502 for short). Order a PCB and support his project [here](https://ko-fi.com/rumbledethumps). 
 
 ## My goals for this project
 - Use 2 [Rasberry Pi Pico2s](https://www.raspberrypi.com/products/raspberry-pi-pico-2/) with [Rumbledethumps' rp6502 firmware](https://github.com/picocomputer/rp6502)
