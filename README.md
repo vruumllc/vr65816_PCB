@@ -113,7 +113,7 @@ Here are some things to keep in mind before building my vr65816:
 5. The REA can only access the lowest 64kB of memory, so each 65816 ROM will have to be responsible for loading assets and code into higher memory. Large 65816 projects will need to be designed so that the initially loaded portion is less than 64kB.
 6. 65816 ROMs will have to check programatically to make sure they are not accidentally loaded into an RP6502. The ROMS must exit gracefully with a message if so. The monitor program handles loading ROMs renamed to have a .vr65816 extension, so that might help to avoid confusion.
 7. The monitor program can only dump the lowest 64kB of microcontroller memory (65816 Bank0), and displays the 64kB of extended RAM living on the REA using the 65816 Bank1 addresses. Confusing, but if dumping any 65816 upper memory is needed, a 65816-specific ROM can be written.
-8. The vr65816 PCB is 25mm taller than the RP6502 PCB, so it won't fit in my fabulous 3D-printed cases I've already designed. If I ever finish working on this README and the vr65816_examples, I'll hop right to it and come up with something special.
+8. The vr65816 PCB is 25mm taller than the RP6502 PCB, so it won't fit in the fabulous 3D-printed cases I've already designed. If I ever finish working on this README and the vr65816_examples, I'll hop right to it and come up with something special.
 9. I'm sure more things will come to light...
 
 
