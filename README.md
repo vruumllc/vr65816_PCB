@@ -86,7 +86,7 @@ OK! You should now have a completed vr65816 retro-computer of your very own. Let
 - Remove the USB flash drive from your host computer and plug it into the USB 2 OTG hub
 - Plug in any other USB 2 peripherals like keyboard, mouse, and gamepad, if you have them
 - Plug in the headphones or computer speakers, if you have them
-- Plug in the video monitor if you have it, using the VGA to HDMI adapter if you have an HDMI monitor
+- Plug in the video monitor if you have it, using the VGA to HDMI adapter if it is an HDMI monitor
 - Finally, plug the USB cable connected to the Pico 2 VGA back into you host computer.
 
 If you have a video monitor connected, you should see "Picocomputer 6502" and the RIA and VGA firmware versions you uploaded, followed by the prompt ']' and a blinking cursor.
