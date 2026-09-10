@@ -32,7 +32,7 @@ I used [Mouser's 'Create a BOM'](https://www.mouser.com/en/Bom/) feature to orde
 My cost per kit of parts was about $114 USD, including shipping, fees, and taxes.
 
 ## Getting a PCB
-I used [PCBWay](https://www.pcbway.com/Member/Login/) to fabricate my PCB:
+I used [PCBWay](https://www.pcbway.com) to fabricate my PCB:
 - Click on "PCB Prototype" at upper left after logging in
 - Enter Length=125 and Width=150 mm for the Size
 - Select Quantity desired (5 minimum)
