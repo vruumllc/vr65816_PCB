@@ -29,7 +29,7 @@ If you aren't an experienced programmer or just want a simple but capable retro-
 ## Getting the parts
 I used [Mouser's 'Create a BOM'](https://www.mouser.com/en/Bom/) feature to order all parts except the PCB.  Use the 'Mouser Part Number' and 'Qty' columns from the [vr65816_full_BOM.csv](https://github.com/vruumllc/vr65816_schematic/blob/main/vr65816_full_BOM.csv) file in this repository.
 
-Note that I didn't order [Pico 2](https://www.adafruit.com/product/6006) and [Pico 2W](https://www.adafruit.com/product/6087) from Mouser, because they only sell the ones with headers, which have funky debug connectors. I ordered them directly from Adafruit instead. Remember to order two [sets of headers](https://www.adafruit.com/product/5584), as well.
+Note that I didn't order [Pico 2](https://www.adafruit.com/product/6006) and [Pico 2W](https://www.adafruit.com/product/6087) from Mouser, because they only sell the ones with pre-soldered headers, which have funky debug connectors. I ordered them directly from Adafruit instead. Remember to order two [sets of headers](https://www.adafruit.com/product/5584), as well.
 
 My cost per kit of parts was about $114 USD, including shipping, fees, and taxes.
 
