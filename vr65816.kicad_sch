@@ -11599,7 +11599,7 @@
 			)
 			(symbol "Pi_Pico_1_1_1"
 				(text "RIA"
-					(at 0 -1.27 900)
+					(at 0 -5.08 900)
 					(effects
 						(font
 							(size 2.54 2.54)
@@ -17695,7 +17695,7 @@
 			)
 			(symbol "Pi_Pico_1_1"
 				(text "VGA"
-					(at 0 0 900)
+					(at 0 -5.08 900)
 					(effects
 						(font
 							(size 2.54 2.54)
