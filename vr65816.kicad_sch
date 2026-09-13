@@ -20213,6 +20213,12 @@
 		(uuid "337572c7-cc3c-4769-9d05-25a81565b30b")
 	)
 	(junction
+		(at 248.92 179.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "36a68ee1-b6b2-4494-b32c-33b294c613ad")
+	)
+	(junction
 		(at 345.44 245.11)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -20415,12 +20421,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ab34a676-1b31-495f-8064-1b0deca5fea5")
-	)
-	(junction
-		(at 316.23 234.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ab3678aa-0fe6-4937-ae0e-d52eb2883720")
 	)
 	(junction
 		(at 181.61 148.59)
@@ -23122,7 +23122,7 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 142.24) (xy 231.14 142.24)
+			(xy 223.52 142.24) (xy 238.76 142.24)
 		)
 		(stroke
 			(width 0)
@@ -23139,16 +23139,6 @@
 			(type default)
 		)
 		(uuid "3048e432-46d9-4973-b25f-d1a55b8bf83a")
-	)
-	(wire
-		(pts
-			(xy 251.46 142.24) (xy 246.38 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "30513b07-5521-42df-84f5-595cd6bc2914")
 	)
 	(wire
 		(pts
@@ -23872,6 +23862,16 @@
 	)
 	(wire
 		(pts
+			(xy 254 142.24) (xy 273.05 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fe0eb79-2517-47c2-ac22-4071b5678b7d")
+	)
+	(wire
+		(pts
 			(xy 44.45 143.51) (xy 49.53 143.51)
 		)
 		(stroke
@@ -23909,16 +23909,6 @@
 			(type default)
 		)
 		(uuid "5136bbd0-377d-42ed-b0fc-2c13f22fb2cb")
-	)
-	(wire
-		(pts
-			(xy 259.08 142.24) (xy 273.05 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "52056a4f-a062-4311-913f-f3bbc406fae6")
 	)
 	(wire
 		(pts
@@ -24629,16 +24619,6 @@
 			(type default)
 		)
 		(uuid "6d4c0336-bc68-4067-996a-22276b2f1119")
-	)
-	(wire
-		(pts
-			(xy 316.23 234.95) (xy 316.23 237.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6dae10c5-0078-4dcb-ad92-2fd7872514e7")
 	)
 	(wire
 		(pts
@@ -26240,16 +26220,6 @@
 		)
 		(uuid "b83ba53f-9a37-4e78-845a-337b67521a95")
 	)
-	(wire
-		(pts
-			(xy 316.23 232.41) (xy 316.23 234.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b849f2a9-96ba-414a-9ce8-7859828b3665")
-	)
 	(bus
 		(pts
 			(xy 308.61 123.19) (xy 358.14 123.19)
@@ -27520,6 +27490,16 @@
 		)
 		(uuid "ef155c81-cd6f-42ec-89ec-df82590bb1ee")
 	)
+	(wire
+		(pts
+			(xy 248.92 176.53) (xy 248.92 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef80c9ca-ae8b-4c4a-995a-a5764455e601")
+	)
 	(bus
 		(pts
 			(xy 308.61 204.47) (xy 308.61 232.41)
@@ -27829,6 +27809,16 @@
 			(type default)
 		)
 		(uuid "feb21642-831c-4765-aed8-16aa9371654b")
+	)
+	(wire
+		(pts
+			(xy 248.92 179.07) (xy 248.92 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fed08886-b632-45ee-90e2-b81bd77a1117")
 	)
 	(wire
 		(pts
@@ -30971,122 +30961,6 @@
 		(uuid "fdfb5097-dd8e-492b-8045-f5411c31660e")
 	)
 	(symbol
-		(lib_name "74AC04_5")
-		(lib_id "vr65816:74AC04")
-		(at 256.54 179.07 0)
-		(unit 3)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "00739822-1edd-40bb-a2e7-2ffba5c4de75")
-		(property "Reference" "U10"
-			(at 255.524 170.434 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "74AC04"
-			(at 256.286 172.72 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
-			(at 256.54 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/cd74ac04.pdf"
-			(at 256.54 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Hex Inverter"
-			(at 255.27 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "12"
-			(uuid "a3c854e4-e314-4101-a8c0-b988cdd99ffe")
-		)
-		(pin "2"
-			(uuid "7c96cf30-a539-400c-9ac9-30b3a35d5415")
-		)
-		(pin "1"
-			(uuid "75c13982-07b8-4ff8-9515-340dd0860569")
-		)
-		(pin "11"
-			(uuid "82055a3f-c4c4-4830-b702-06962c975657")
-		)
-		(pin "9"
-			(uuid "632b821d-127b-45e9-99b5-0f889e66da69")
-		)
-		(pin "3"
-			(uuid "2b814d0d-eb78-4704-9031-1fa9a1ec7833")
-		)
-		(pin "10"
-			(uuid "6e24dc56-49fa-4e20-92f5-412831f00d3e")
-		)
-		(pin "7"
-			(uuid "50ce365b-2dee-45f4-89ac-a1328d3e1c72")
-		)
-		(pin "13"
-			(uuid "6fd417c2-3562-4fc6-9c0b-9b41e25719ac")
-		)
-		(pin "5"
-			(uuid "c0d1a863-c11b-4dd2-807c-2f540ca9e2d5")
-		)
-		(pin "4"
-			(uuid "595a0f89-e912-4ad4-9705-7588a6071fbc")
-		)
-		(pin "14"
-			(uuid "4836e013-a2b1-459e-89b0-e8ba2243614d")
-		)
-		(pin "6"
-			(uuid "491a5734-de84-4a65-b430-ca254e50f4be")
-		)
-		(pin "8"
-			(uuid "fe154bcd-95c7-4e51-a61f-4895ec31b7cf")
-		)
-		(instances
-			(project "vr65816"
-				(path "/44d5f484-9c15-4892-8f20-1fc1a92dadac"
-					(reference "U10")
-					(unit 3)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "vr65816:+3V3B")
 		(at 54.61 40.64 0)
 		(unit 1)
@@ -31584,6 +31458,122 @@
 				(path "/44d5f484-9c15-4892-8f20-1fc1a92dadac"
 					(reference "#PWR029")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "74AC04_5")
+		(lib_id "vr65816:74AC04")
+		(at 323.85 234.95 0)
+		(unit 3)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "06424192-f4bf-4a7f-b2b5-76fe4b4fcccd")
+		(property "Reference" "U10"
+			(at 322.834 226.314 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "74AC04"
+			(at 323.596 228.6 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
+			(at 323.85 210.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/cd74ac04.pdf"
+			(at 323.85 205.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Hex Inverter"
+			(at 322.58 208.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "12"
+			(uuid "a3c854e4-e314-4101-a8c0-b988cdd99ffe")
+		)
+		(pin "2"
+			(uuid "7c96cf30-a539-400c-9ac9-30b3a35d5415")
+		)
+		(pin "1"
+			(uuid "75c13982-07b8-4ff8-9515-340dd0860569")
+		)
+		(pin "11"
+			(uuid "82055a3f-c4c4-4830-b702-06962c975657")
+		)
+		(pin "9"
+			(uuid "632b821d-127b-45e9-99b5-0f889e66da69")
+		)
+		(pin "3"
+			(uuid "2b814d0d-eb78-4704-9031-1fa9a1ec7833")
+		)
+		(pin "10"
+			(uuid "6e24dc56-49fa-4e20-92f5-412831f00d3e")
+		)
+		(pin "7"
+			(uuid "50ce365b-2dee-45f4-89ac-a1328d3e1c72")
+		)
+		(pin "13"
+			(uuid "6fd417c2-3562-4fc6-9c0b-9b41e25719ac")
+		)
+		(pin "5"
+			(uuid "ad0bd4d6-0456-45f0-8330-abb1fe1a5227")
+		)
+		(pin "4"
+			(uuid "595a0f89-e912-4ad4-9705-7588a6071fbc")
+		)
+		(pin "14"
+			(uuid "4836e013-a2b1-459e-89b0-e8ba2243614d")
+		)
+		(pin "6"
+			(uuid "84809c15-19ab-4c80-aa56-a2065b7d8f49")
+		)
+		(pin "8"
+			(uuid "fe154bcd-95c7-4e51-a61f-4895ec31b7cf")
+		)
+		(instances
+			(project "vr65816"
+				(path "/44d5f484-9c15-4892-8f20-1fc1a92dadac"
+					(reference "U10")
+					(unit 3)
 				)
 			)
 		)
@@ -34047,7 +34037,7 @@
 				)
 			)
 		)
-		(property "Value" "2k"
+		(property "Value" "220"
 			(at 82.804 71.374 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34697,7 +34687,7 @@
 	(symbol
 		(lib_name "74AC04_2")
 		(lib_id "vr65816:74AC04")
-		(at 238.76 142.24 0)
+		(at 246.38 142.24 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -34707,7 +34697,7 @@
 		(dnp no)
 		(uuid "36161570-66e0-4666-be8a-726b788b4208")
 		(property "Reference" "U10"
-			(at 237.744 133.604 0)
+			(at 245.364 133.604 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -34717,7 +34707,7 @@
 			)
 		)
 		(property "Value" "74AC04"
-			(at 238.506 135.89 0)
+			(at 246.126 135.89 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -34727,7 +34717,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
-			(at 238.76 118.11 0)
+			(at 246.38 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34738,7 +34728,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/cd74ac04.pdf"
-			(at 238.76 113.03 0)
+			(at 246.38 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34749,7 +34739,7 @@
 			)
 		)
 		(property "Description" "Hex Inverter"
-			(at 237.49 115.57 0)
+			(at 245.11 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36670,86 +36660,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 255.27 142.24 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "59f78b55-b0bb-4bf6-bf5c-fdaca95a8ca1")
-		(property "Reference" "R7"
-			(at 255.27 136.906 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "47"
-			(at 255.27 139.192 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "vr65816:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal_Long"
-			(at 255.27 140.462 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 255.27 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 255.27 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "7fd7fe91-ccae-4141-9955-5567a120dfa1")
-		)
-		(pin "1"
-			(uuid "0a5b33c8-0fd4-40ed-8875-830144744724")
-		)
-		(instances
-			(project "vr65816"
-				(path "/44d5f484-9c15-4892-8f20-1fc1a92dadac"
-					(reference "R7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "vr65816:+3V3A")
 		(at 387.35 208.28 0)
 		(unit 1)
@@ -38208,6 +38118,122 @@
 				(path "/44d5f484-9c15-4892-8f20-1fc1a92dadac"
 					(reference "U2")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "vr65816:74AC00")
+		(at 256.54 179.07 0)
+		(unit 3)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6d08a09e-dc3f-4493-b5f5-1bc919a4ece1")
+		(property "Reference" "U9"
+			(at 256.5317 170.18 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "74AC00"
+			(at 256.5317 172.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
+			(at 256.54 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/cd74ac00.pdf"
+			(at 256.54 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Quad 2-input NAND gate"
+			(at 256.54 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "10"
+			(uuid "7cb74dce-56f1-4fbd-bf1a-03732d719e07")
+		)
+		(pin "5"
+			(uuid "f329c89b-c9df-4b5e-b244-8fd7aa623065")
+		)
+		(pin "8"
+			(uuid "9b77ee12-0ce0-4a36-a923-ecfd4ee089c8")
+		)
+		(pin "11"
+			(uuid "4d854972-d2dc-48f2-9712-507f10c3271c")
+		)
+		(pin "2"
+			(uuid "12bf1a9c-49f6-4d1a-9c35-7b2c2f01fa1d")
+		)
+		(pin "3"
+			(uuid "6e204484-4621-4242-8b2a-377484b9901f")
+		)
+		(pin "6"
+			(uuid "c7cc6c47-fcaf-452e-9ab9-1a80c45f75d9")
+		)
+		(pin "9"
+			(uuid "a766176c-a126-4a47-a8af-6f7a3c13e80c")
+		)
+		(pin "12"
+			(uuid "fbc86d62-94f4-4887-b397-edd15344e7cc")
+		)
+		(pin "4"
+			(uuid "4ce865fd-1605-4f80-99ac-2fe93417d6be")
+		)
+		(pin "13"
+			(uuid "4e9d3f0d-8260-477f-9e1d-e3efae1bb694")
+		)
+		(pin "1"
+			(uuid "72fcdc9a-0dd5-4e01-83cf-36a48491641e")
+		)
+		(pin "14"
+			(uuid "0368c2d2-b48f-43c2-93f1-3d48d9c8c763")
+		)
+		(pin "7"
+			(uuid "0269fe43-c941-42ba-a99c-907bf490eac7")
+		)
+		(instances
+			(project "vr65816"
+				(path "/44d5f484-9c15-4892-8f20-1fc1a92dadac"
+					(reference "U9")
+					(unit 3)
 				)
 			)
 		)
@@ -41100,8 +41126,8 @@
 				)
 			)
 		)
-		(property "Value" "2k"
-			(at 219.964 86.36 0)
+		(property "Value" "100"
+			(at 220.98 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -41624,122 +41650,6 @@
 				(path "/44d5f484-9c15-4892-8f20-1fc1a92dadac"
 					(reference "R28")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "vr65816:74AC00")
-		(at 323.85 234.95 0)
-		(unit 3)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b13df2b6-ba6f-4579-89d2-cd22b62b982f")
-		(property "Reference" "U9"
-			(at 323.8417 226.06 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "74AC00"
-			(at 323.8417 228.6 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
-			(at 323.85 234.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/cd74ac00.pdf"
-			(at 323.85 220.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Quad 2-input NAND gate"
-			(at 323.85 223.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "10"
-			(uuid "ba0b5373-1905-46d6-84a4-f07e316065c9")
-		)
-		(pin "5"
-			(uuid "f329c89b-c9df-4b5e-b244-8fd7aa623065")
-		)
-		(pin "8"
-			(uuid "ff6a67b8-d121-44d9-b191-06321280771f")
-		)
-		(pin "11"
-			(uuid "4d854972-d2dc-48f2-9712-507f10c3271c")
-		)
-		(pin "2"
-			(uuid "12bf1a9c-49f6-4d1a-9c35-7b2c2f01fa1d")
-		)
-		(pin "3"
-			(uuid "6e204484-4621-4242-8b2a-377484b9901f")
-		)
-		(pin "6"
-			(uuid "c7cc6c47-fcaf-452e-9ab9-1a80c45f75d9")
-		)
-		(pin "9"
-			(uuid "5ffbdc66-0e38-422f-9229-97f231a209a3")
-		)
-		(pin "12"
-			(uuid "fbc86d62-94f4-4887-b397-edd15344e7cc")
-		)
-		(pin "4"
-			(uuid "4ce865fd-1605-4f80-99ac-2fe93417d6be")
-		)
-		(pin "13"
-			(uuid "4e9d3f0d-8260-477f-9e1d-e3efae1bb694")
-		)
-		(pin "1"
-			(uuid "72fcdc9a-0dd5-4e01-83cf-36a48491641e")
-		)
-		(pin "14"
-			(uuid "0368c2d2-b48f-43c2-93f1-3d48d9c8c763")
-		)
-		(pin "7"
-			(uuid "0269fe43-c941-42ba-a99c-907bf490eac7")
-		)
-		(instances
-			(project "vr65816"
-				(path "/44d5f484-9c15-4892-8f20-1fc1a92dadac"
-					(reference "U9")
-					(unit 3)
 				)
 			)
 		)
