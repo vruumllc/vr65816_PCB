@@ -5486,7 +5486,7 @@
 			)
 		)
 		(property ki_fp_filters "DIP?12*")
-		(path "/d29f66a4-db3b-4d65-9a27-eed4fa3cff32")
+		(path "/b4bf94cd-feed-4aa7-9225-8230bedc97fa")
 		(sheetname "/")
 		(sheetfile "vr65816.kicad_sch")
 		(units
@@ -17174,7 +17174,7 @@
 			)
 		)
 		(property ki_fp_filters "DIP?12*")
-		(path "/7989dbfb-114a-4dde-9e0e-3dfa51965ef0")
+		(path "/53c55a8f-cd11-4c2d-bbeb-da29b0c9dfac")
 		(sheetname "/")
 		(sheetfile "vr65816.kicad_sch")
 		(units
@@ -17819,7 +17819,7 @@
 			)
 		)
 		(property ki_fp_filters "DIP*W7.62mm* SO14*")
-		(path "/538f2a9e-de12-4c7e-95e4-1c83beda8543")
+		(path "/e6948955-c239-4476-8069-772776fb7944")
 		(sheetname "/")
 		(sheetfile "vr65816.kicad_sch")
 		(units
@@ -19240,7 +19240,7 @@
 			)
 		)
 		(property ki_fp_filters "DIP*W7.62mm* SSOP?14* TSSOP?14*")
-		(path "/c267ae9e-da88-4ee7-8d00-c9338d7c2184")
+		(path "/06424192-f4bf-4a7f-b2b5-76fe4b4fcccd")
 		(sheetname "/")
 		(sheetfile "vr65816.kicad_sch")
 		(units
