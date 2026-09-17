@@ -29,6 +29,8 @@ If you aren't an experienced programmer, or just want to build an inexpensive bu
 ## Getting the parts
 I used [Mouser's 'Create a BOM'](https://www.mouser.com/en/Bom/) feature to order all parts except the PCB.  Use the 'Mouser Part Number' and 'Qty' columns from the [vr65816_full_BOM.csv](https://github.com/vruumllc/vr65816_schematic/blob/main/vr65816_full_BOM.csv) file in this repository.
 
+You can also get the identical parts at [DigiKey](https://www.digikey.com/), except for the WDC 65C816 and 65C22.
+
 My cost per kit of parts was about $114 USD, including shipping, fees, and taxes.
 
 ## Getting a PCB
