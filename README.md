@@ -45,9 +45,9 @@ I used [PCBWay](https://www.pcbway.com) to fabricate my PCB:
 
 After a wait of a few minutes while the file is 'Under Review' you will be allowed to place your order.
 
-My cost was about $90 USD including shipping, fees, and taxes -- about $18 USD per PCB.
+My cost was about $105 USD including shipping, fees, and taxes -- about $21 USD per PCB.
 
-The total price per vr65816 therefore came out to be about $132 USD (September 2026, Silicon Valley, USA).
+The total price per vr65816 therefore came out to be about $135 USD (September 2026, Silicon Valley, USA).
 
 ## More things you need that you may already own
 Rumbledethumps has made a huge effort to support modern hardware, so you don't have to rely on ancient and expensive peripherals to use this retro-computer. Here is a list of peripherals you may already have, with some example links if you don't:
