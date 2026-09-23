@@ -100,7 +100,7 @@
 		(start 110 5.5)
 		(end 2 5.5)
 	)
-	(tbtext "https://github.com/vruumllc/vr65816_schematic/"
+	(tbtext "https://github.com/vruumllc/vr65816_PCB/"
 		(name "")
 		(pos 109 3.8)
 		(comment "Kicad version")
